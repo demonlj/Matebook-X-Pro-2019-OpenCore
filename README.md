@@ -1,11 +1,6 @@
+based on https://github.com/zeroruka/Matebook-X-Pro-2019-OC
 # Opencore Config for Matebook X Pro 2019
-OC Version: 0.8.4
-
-Supports Latest Versions of MacOS
-
-This Config is preconfigured with refind, and supports dual boot with windows
-
-Add /BootOC/bootx64.efi into your boot entry and select that to boot.
+OC Version: 1.0.5
 
 ## What works?
 - Turbo boost and CPU frequency stage
