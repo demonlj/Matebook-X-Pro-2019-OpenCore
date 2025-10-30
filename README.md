@@ -2,6 +2,9 @@ based on https://github.com/zeroruka/Matebook-X-Pro-2019-OC
 # Opencore Config for Matebook X Pro 2019
 OC Version: 1.0.5
 
+# bugs
+unable to load itlwm.kext after reboot for unkown reseaon, should manual kextload. using AirportItlwm.kext (v14.4+) is fine
+
 ## What works?
 - Turbo boost and CPU frequency stage
 - Integrated Graphics
