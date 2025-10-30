@@ -5,6 +5,11 @@ OC Version: 1.0.5
 # bugs
 unable to load itlwm.kext after reboot for unkown reseaon, should manual kextload. using AirportItlwm.kext (v14.4+) is fine
 
+# upgrade memory to 16G (hardware changes)
+![](https://github.com/demonlj/Matebook-X-Pro-2019-OpenCore/blob/main/Memory%20upgrade%20to%2016G/before1.png)
+![](https://github.com/demonlj/Matebook-X-Pro-2019-OpenCore/blob/main/Memory%20upgrade%20to%2016G/after1.png)
+![](https://github.com/demonlj/Matebook-X-Pro-2019-OpenCore/blob/main/Memory%20upgrade%20to%2016G/after2.png)
+
 ## What works?
 - Turbo boost and CPU frequency stage
 - Integrated Graphics
